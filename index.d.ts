@@ -1,6 +1,6 @@
 type Mode = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9;
 
-declare module "lzma-web" {
+declare module "lzma" {
   /** The class uses a web worker */
   export default class LZMA {
     /** @param mode defaults to 9 */
