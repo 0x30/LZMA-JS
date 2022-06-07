@@ -26,5 +26,6 @@
     "lzma",
     "compression",
     "decompression"
-  ]
+  ],
+  "types": "index.d.ts"
 }
