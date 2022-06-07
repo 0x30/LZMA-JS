@@ -1,6 +1,6 @@
 export type Mode = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9;
 /**
- * 同步压缩数据 - mode 压缩等级 默认为6
+ * 同步压缩数据 - mode 压缩等级 默认为7
  * 需要自己捕捉错误 try catch
  * @param input 输入数据
  */
